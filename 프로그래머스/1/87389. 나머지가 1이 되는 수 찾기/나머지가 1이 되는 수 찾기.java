@@ -5,7 +5,7 @@ class Solution {
             if(n%i == 1){
                 answer = i;
                 break;
-            }
+            }//
         }
         return answer;
     }
